@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\HRC\\Search\\AddSweetAlert2\\Projects\\SweetAlert2Test\\SweetAlert2Test\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\SweetAlert2Test.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SweetAlert2Test.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\AddSweetAlert2\\Projects\\SweetAlert2Test\\SweetAlert2Test\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\AddSweetAlert2\\Projects\\SweetAlert2Test\\SweetAlert2Test\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\AddSweetAlert2\\Projects\\SweetAlert2Test\\SweetAlert2Test\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\HRC\\Search\\AddSweetAlert2\\Projects\\SweetAlert2Test\\SweetAlert2Test\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SweetAlert2Test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.SweetAlert2Test.props",
+      "PackagePath": "build\\SweetAlert2Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.SweetAlert2Test.props",
+      "PackagePath": "buildMultiTargeting\\SweetAlert2Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.SweetAlert2Test.props",
+      "PackagePath": "buildTransitive\\SweetAlert2Test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
